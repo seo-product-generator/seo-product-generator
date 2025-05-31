@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const API_KEY = "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";
+const API_KEY = "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";
 const API_URL = "https://openrouter.ai/api/v1/chat/completions";
 const MODEL = "deepseek/deepseek-chat-v3-0324:free";
 
