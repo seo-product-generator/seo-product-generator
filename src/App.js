@@ -16,7 +16,10 @@ function App() {
   const [loading, setLoading] = useState(false);
 
   const stripSection = (text, sectionTitle) => {
-    const pattern = new RegExp(`###\\s+\\*\\*?${sectionTitle.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\*?\\*?.*?(?=\\n###|$)`, 'gis');
+    const pattern = new RegExp(
+      `###\\s+\\*\\*?${sectionTitle.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\*?\\*?.*?(?=\\n###|$)`,
+      'gis'
+    );
     return text.replace(pattern, '');
   };
 
@@ -60,6 +63,11 @@ Generate the following:
       });
 
       const data = await response.json();
+
+      if (!data.choices || !data.choices.length) {
+        throw new Error("No choices returned: " + JSON.stringify(data));
+      }
+
       let seoOutput = data.choices[0].message.content;
 
       if (memory.includes("**DO NOT INCLUDE LONG DESCRIPTION**")) {

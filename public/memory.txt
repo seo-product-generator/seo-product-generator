@@ -1,0 +1,641 @@
+MEMORY.txt
+
+Note to AI:
+Use British English spelling in all responses.
+Examples:
+- "colour" not "color"
+- "favour" not "favor"
+- "organise" not "organize"
+- "theatre" not "theater"
+- Always make output easily readable and ready to paste without extra formatting.
+- NEVER use asterisks (*) to style or highlight text. Avoid **bold** formatting entirely.
+- NEVER use hashtags (#) to create headings or styled sections.
+
+**DO NOT INCLUDE TAGS**
+**DO NOT INCLUDE LONG DESCRIPTION**
+
+Consider using at least 200 words for product listings.
+
+In long descriptions, you may use tick (✓) icons for listing product features clearly and attractively when needed, like this:
+✓ Lightweight design  
+✓ Durable material  
+✓ Weather-resistant
+
+please remember to not us ** in descriptions or # to highlight words and the output must be easily readable and ready to paste
+
+For the tag section:
+⚠️ Do NOT list tags as numbers or bullet points.
+✅ Output them as a comma-separated list like this:
+resin planter, small flower pot, UV-resistant, indoor plant pot, outdoor planter
+
+note to AI..... here is a checklist and dont forget to add the power word to the title
+
+There are many ways of categorizing power words, but from our perspective, there are three types of power words.
+
+    Seductive Power Words
+    Emotional Power Words
+    Sensory (or visual)
+
+add the one of these  power words to the title,
+
+English power words list, "A Cut Above 	Absolute 	Absolutely Lowest
+Absolutely 	Absurd 	Abuse
+Accurate 	Accuse 	Achieve
+Actionable 	Adaptable 	Adequate
+Admit 	Adorable 	Advantage
+Advice 	Affordable 	Aggravate
+Aggressive 	Agitated 	Agonizing
+Agony 	Alarmed 	Alarming
+Alienated 	Aligned 	All-inclusive
+Alluring 	Always 	Amazing
+Amp 	Animated 	Annihilate
+Announcing 	Anonymous 	Antagonistic
+Anxious 	Apocalypse 	Appalled
+Approved 	Approving 	Argumentative
+Armageddon 	Arrogant 	Ass Kicking
+Assault 	Assured 	Astonishing
+Astounded 	Astounding 	At Ease
+Atrocious 	Attractive 	Audacity
+Authentic 	Authoritative 	Authority
+Aware 	Awe-inspiring 	Awesome
+Awkward 	Backbone 	Backdoor
+Backed 	Backlash 	Backstabbing
+Badass 	Balanced 	Banned
+Bargain 	Barrage 	Basic
+Battle 	Beaming 	Beat Down
+Beating 	Beautiful 	Beauty
+Begging 	Behind The Scenes 	Belief
+Best-selling 	Best 	Better
+Beware 	Big 	Billion
+Black Market 	Blacklisted 	Blast
+Blessed 	Blinded 	Blissful
+Blood 	Bloodbath 	Bloodcurdling
+Bloody 	Blunder 	Blushing
+Bold 	Bomb 	Bona Fide
+Bonanza 	Bonus 	Bootleg
+Bottom Line 	Bountiful 	Brave
+Bravery 	Brazen 	Break
+Breaking 	Breakthrough 	Breathtaking
+Bright 	Brilliant 	Broke
+Brutal 	Budget 	Buffoon
+Bullshit 	Bully 	Bumbling
+Buy 	Cadaver 	Calm
+Cancel Anytime 	Capable 	Captivate
+Captivating 	Carefree 	Case Study
+Cash 	Cataclysmic 	Catapult
+Catastrophe 	Caution 	Censored
+Centered 	Certain 	Certainly
+Certified 	Challenge 	Charming
+Cheap 	Cheat-sheet 	Cheat
+Cheer 	Cheerful 	Child-like
+Clarity 	Classified 	Clear
+Clueless 	Collapse 	Colorful
+Colossal 	Comfortable 	Compare
+Competitive 	Complete 	Completely
+Completeness 	Comprehensive 	Compromise
+Compulsive 	Concealed 	Conclusive
+Condemning 	Condescending 	Confess
+Confession 	Confessions 	Confident
+Confidential 	Conquer 	Conscientious
+Constructive 	Content 	Contrary
+Controlling 	Controversial 	Convenient
+Convert 	Cooperative 	Copy
+Corpse 	Corrupt 	Corrupting
+Courage 	Courageous 	Cover-up
+Covert 	Coward 	Cowardly
+Crammed 	Crave 	Crazy
+Creative 	Cringeworthy 	Cripple
+Crisis 	Critical 	Crooked
+Crush 	Crushing 	Damaging
+Danger 	Dangerous 	Daring
+Dazzling 	Dead 	Deadline
+Deadly 	Death 	Decadent
+Deceived 	Deceptive 	Defiance
+Definitely 	Definitive 	Defying
+Dejected 	Delicious 	Delight
+Delighted 	Delightful 	Delirious
+Delivered 	Deplorable 	Depraved
+Desire 	Desperate 	Despicable
+Destiny 	Destroy 	Detailed
+Devastating 	Devoted 	Diagnosed
+Direct 	Dirty 	Disadvantages
+Disastrous 	Discount 	Discover
+Disdainful 	Disempowered 	Disgusted
+Disgusting 	Dishonest 	Disillusioned
+Disoriented 	Distracted 	Distraught
+Distressed 	Distrustful 	Divulge
+Document 	Dollar 	Doomed
+Double 	Doubtful 	Download
+Dreadful 	Dreamy 	Drive
+Drowning 	Dumb 	Dynamic
+Eager 	Earnest 	Easily
+Easy 	Economical 	Ecstatic
+Edge 	Effective 	Efficient
+Effortless 	Elated 	Eliminate
+Elite 	Embarrass 	Embarrassed
+Emergency 	Emerging 	Emphasize
+Empowered 	Enchant 	Encouraged
+Endorsed 	Energetic 	Energy
+Enormous 	Enraged 	Enthusiastic
+Epic 	Epidemic 	Essential
+Ethical 	Euphoric 	Evil
+Exactly 	Exasperated 	Excellent
+Excited 	Excitement 	Exciting
+Exclusive 	Exclusivity 	Excruciating
+Exhilarated 	Expensive 	Expert
+Explode 	Exploit 	Explosive
+Exposed 	Exquisite 	Extra
+Extraordinary 	Extremely 	Exuberant
+Eye-opening 	Fail-proof 	Fail
+Failure 	Faith 	Famous
+Fantasy 	Fascinating 	Fatigued
+Faux Pas 	Fearless 	Feast
+Feeble 	Festive 	Fierce
+Fight 	Final 	Fine
+Fired 	First Ever 	First
+Flirt 	Fluid 	Focus
+Focused 	Fool 	Fooled
+Foolish 	Forbidden 	Force-fed
+Forever 	Forgiving 	Forgotten
+Formula 	Fortune 	Foul
+Frantic 	Free 	Freebie
+Freedom 	Frenzied 	Frenzy
+Frightening 	Frisky 	Frugal
+Frustrated 	Fulfill 	Fulfilled
+Full 	Fully 	Fun-loving
+Fundamentals 	Funniest 	Funny
+Furious 	Gambling 	Gargantuan
+Genius 	Genuine 	Gift
+Gigantic 	Giveaway 	Glamorous
+Gleeful 	Glorious 	Glowing
+Gorgeous 	Graceful 	Grateful
+Gratified 	Gravity 	Greatest
+Greatness 	Greed 	Greedy
+Grit 	Grounded 	Growth
+Guaranteed 	Guilt-free 	Guilt
+Gullible 	Guts 	Hack
+Happiness 	Happy 	Harmful
+Harsh 	Hate 	Have You Heard
+Havoc 	Hazardous 	Healthy
+Heart 	Heartbreaking 	Heartwarming
+Heavenly 	Helpful 	Helplessness
+Hero 	Hesitant 	Hidden
+High Tech 	Highest 	Highly Effective
+Hilarious 	Hoak 	Hoax
+Holocaust 	Honest 	Honored
+Hope 	Hopeful 	Horrific
+Horror 	Hostile 	How To
+Huge 	Humility 	Humor
+Hurricane 	Hurry 	Hypnotic
+Idiot 	Ignite 	Illegal
+Illusive 	Imagination 	Immediately
+Imminently 	Impatience 	Impatient
+Impenetrable 	Important 	Improved
+In The Zone 	Incapable 	Incapacitated
+Incompetent 	Inconsiderate 	Increase
+Incredible 	Indecisive 	Indulgence
+Indulgent 	Inexpensive 	Inferior
+Informative 	Infuriated 	Ingredients
+Innocent 	Innovative 	Insane
+Insecure 	Insider 	Insider
+Insidious 	Inspired 	Inspiring
+Instant Savings 	Instantly 	Instructive
+Intel 	Intelligent 	Intense
+Interesting 	Intriguing 	Introducing
+Invasion 	Investment 	Iron-clad
+Ironclad 	Irresistible 	Irs
+Jackpot 	Jail 	Jaw-dropping
+Jealous 	Jeopardy 	Jittery
+Jovial 	Joyous 	Jubilant
+Judgmental 	Jumpstart 	Just Arrived
+Keen 	Kickass 	Kickstart
+Know It All 	Lame 	Largest
+Lascivious 	Last Chance 	Last Minute
+Last 	Latest 	Laugh
+Laughing 	Launch 	Launching
+Lavishly 	Lawsuit 	Left Behind
+Legendary 	Legitimate 	Liberal
+Liberated 	Lick 	Lies
+Life-changing 	Lifetime 	Light
+Lighthearted 	Likely 	Limited
+Literally 	Little-known 	Loathsome
+Lonely 	Looming 	Loser
+Lost 	Love 	Lunatic
+Lurking 	Lust 	Luxurious
+Luxury 	Lying 	Magic
+Magical 	Magnificent 	Mainstream
+Malicious 	Mammoth 	Manipulative
+Marked Down 	Massive 	Maul
+Mediocre 	Meditative 	Meltdown
+Memorability 	Memorable 	Menacing
+Mesmerizing 	Meticulous 	Mind-blowing
+Minimalist 	Miracle 	Mired
+Mischievous 	Misgiving 	Missing Out
+Mistake 	Monetize 	Money
+Moneyback 	Moneygrubbing 	Monumental
+Most Important 	Motivated 	Mouth-watering
+Murder 	Mystery 	Nail
+Naked 	Natural 	Naughty
+Nazi 	Nest Egg 	Never
+New 	Nightmare 	No Good
+No Obligation 	No One Talks About 	No Questions Asked
+No Risk 	No Strings Attached 	Non-controlling
+Noted 	Novelty 	Now
+Obnoxious 	Obsessed 	Obsession
+Obvious 	Odd 	Off-kilter
+Off-limits 	Off-the Record 	Offensive
+Official 	Okay 	On-demand
+Open-minded 	Opportunities 	Optimistic
+Ordeal 	Outlawed 	Outrageousness
+Outstanding 	Overcome 	Overjoyed
+Overnight 	Overwhelmed 	Painful
+Painless 	Painstaking 	Pale
+Panic 	Panicked 	Paralyzed
+Passionate 	Pathetic 	Pay Zero
+Payback 	Peril 	Perplexed
+Perspective 	Pessimistic 	Pioneering
+Piranha 	Pitfall 	Pitiful
+Placid 	Plague 	Played
+Playful 	Pleased 	Pluck
+Plummet 	Plunge 	Poison
+Poisonous 	Poor 	Popular
+Portfolio 	Pound 	Powerful
+Powerless 	Practical 	Preposterous
+Prestige 	Price 	Priceless
+Pride 	Prison 	Privacy
+Private 	Privileged 	Prize
+Productive 	Professional 	Profit
+Profitable 	Profound 	Promiscuous
+Promising 	Promote 	Protect
+Protected 	Proven 	Provocative
+Provoke 	Psychological 	Pummel
+Punch 	Punish 	Pus
+Quadruple 	Quality 	Quarrelsome
+Quick-start 	Quick 	Quickly
+Quiet 	Radiant 	Rare
+Ravenous 	Rebellious 	Recession-proof
+Reckoning 	Recognized 	Recommend
+Recreate 	Reduced 	Reflective
+Refugee 	Refund 	Refundable
+Reject 	Relaxed 	Release
+Reliable 	Remarkable 	Replicate
+Report 	Reprimanding 	Repulsed
+Repulsive 	Research 	Resentful
+Resourceful 	Responsible 	Responsive
+Rested 	Restricted 	Results
+Retaliating 	Reveal 	Revealing
+Revenge 	Revengeful 	Revisited
+Revolting 	Revolutionary 	Reward
+Rich 	Ridiculous 	Risky
+Riveting 	Rookie 	Rowdy
+Ruin 	Rules 	Ruthless
+Sabotaging 	Sacred 	Sadistic
+Sadly 	Sadness 	Safe
+Safety 	Sale 	Sampler
+Sarcastic 	Satisfied 	Savage
+Savagery 	Save 	Savings
+Savvy 	Scam 	Scandal
+Scandalous 	Scarce 	Scared
+Scary 	Scornful 	Scream
+Searing 	Secret Agenda 	Secret Plot
+Secret 	Secrets 	Secure
+Security 	Seductive 	Seething
+Seize 	Selected 	Self-hating
+Self-sufficient 	Sensational 	Senseless
+Sensual 	Serene 	Severe
+Sex 	Sexy 	Shaking
+Shameful 	Shameless 	Shaming
+Shatter 	Shellacking 	Shocking
+Should 	Shrewd 	Sick And Tired
+Signs 	Silly 	Simple
+Simplicity 	Simplified 	Simplistic
+Sincere 	Sinful 	Sins
+Six-figure 	Sizable 	Skill
+Skyrocket 	Slaughter 	Slave
+Sleazy 	Sleeping 	Sly
+Smash 	Smiling 	Smug
+Smuggled 	Sneak-peek 	Sneaky
+Sniveling 	Snob 	Snooty
+Snotty 	Soar 	Soaring
+Solid 	Solution 	Spank
+Special 	Spectacular 	Speedy
+Spell-binding 	Spine 	Spirit
+Spirited 	Spiteful 	Spoiler
+Spontaneous 	Spotlight 	Spunky
+Squirming 	Stable 	Staggering
+Startling 	Steady 	Stealthy
+Steamy 	Step-by-step 	Still
+Stoic 	Strange 	Strangle
+Strategy 	Stressed 	Strong
+Strongly Suggest 	Struggle 	Stuck Up
+Studies 	Stunning 	Stupid-simple
+Stupid 	Sturdy 	Sublime
+Succeed 	Success 	Successful
+Suck 	Suddenly 	Suffer
+Sunny 	Super-human 	Superb
+Supercharge 	Superior 	Supported
+Supportive 	Sure Fire 	Sure
+Surefire 	Surge 	Surging
+Surprise 	Surprised 	Surprising
+Survival 	Survive 	Suspicious
+Sweaty 	Swoon-worthy 	Swoon
+Tailspin 	Tank 	Tantalizing
+Targeted 	Tawdry 	Tease
+Technology 	Teetering 	Tempting
+Tenacious 	Tense 	Terrible
+Terrific 	Terrified 	Terrifying
+Terror 	Terrorist 	Tested
+Thankful 	The Truth 	Threaten
+Threatened 	Thrilled 	Thrilling
+Thug 	Ticked Off 	Tickled
+Timely 	Today 	Torture
+Toxic 	Track Record 	Trade Secret
+Tragedy 	Tragic 	Transform
+Transparency 	Trap 	Trapped
+Trauma 	Treacherous 	Treasure
+Tremendous 	Trend 	Tricks
+Triggers 	Triple 	Triumph
+Truly 	Trusting 	Trustworthy
+Truth 	Truthful 	Turbo-charge
+Tweaks 	Twitching 	Ultimate
+Unadulterated 	Unassuming 	Unauthorized
+Unbelievable 	Unburdened 	Uncaring
+Uncensored 	Uncertain 	Uncomfortable
+Unconditional 	Uncontrollable 	Unconventional
+Uncovered 	Undeniable 	Under Priced
+Undercover 	Underground 	Underhanded
+Underused 	Unexpected 	Unforgettable
+Unheard Of 	Unhurried 	Uninterested
+Unique 	Unjustified 	Unknowingly
+Unleashed 	Unlimited 	Unlock
+Unparalleled 	Unreliable 	Unresponsive
+Unseen 	Unstable 	Unstoppable
+Unsure 	Unsurpassed 	Untapped
+Unusual 	Up-sell 	Upbeat
+Uplifted 	Uplifting 	Urge
+Urgent 	Useful 	Useless
+Validate 	Valor 	Valuable
+Value 	Vanquish 	Vaporize
+Venomous 	Verify 	Vibrant
+Vicious 	Victim 	Victory
+Vigorous 	Vilified 	Vindictive
+Violated 	Violent 	Volatile
+Vulnerable 	Waiting 	Wanted
+Wanton 	Warning 	Waste
+Weak 	Wealth 	Weird
+What No One Tells You 	Whip 	Whopping
+Wicked 	Wild 	Willpower
+Withheld 	Wonderful 	Wondrous
+Woozy 	World 	Worry
+Worst 	Worthwhile 	Wounded
+Wreaking 	Youthful 	Zen
+Zinger 	Kill 	Kills
+Killed 	Killing 	Sizzle
+Sizzles 	Sizzled 	Sizzling
+Sizzlingly 	Turbocharges 	Turbo-charge
+Challenge 	Discover 	Crave
+Unpopular 	Impressive 	Embarrassing
+Sensational 	Sinful 	Zen
+Surprising 	Alive 	Odd
+Ravenous 	Lazy 	Avoid
+Demoralizing 	Problem 	Horrifying
+Attack 	Traumatized 	Insult
+Horribly 	Hell 	Relentless
+Master 	Perfect 	Super
+Create 	Packed 	Deep
+Gripping 	Cool 	Seriously
+Envy 	Lucrative 	Steal
+Bona 	Fide 	Masterclass
+Faux 	Pas 	Belong
+Stop 	Polarizing 	Dominate
+Is Here 	Smuggle 	Great
+Fun"
+
+   1 Hurray! You're using Focus Keyword in the SEO Title.
+   2 Focus Keyword used inside SEO Meta Description.
+   3 Focus Keyword used in the URL.
+   4 Focus Keyword appears in the first 10% of the content.
+   5 Focus Keyword found in the content.
+   6 Content is 153 words long. Good job!
+   7 You are using the Product Schema for this Product
+
+   8 Add an image with your Focus Keyword as alt text.
+   9 Keyword Density is 1.96, the Focus Keyword and combination appears 3 times.
+  10 URL is 122 characters long. Consider shortening it.
+  11 You haven't used this Focus Keyword before.   12 Use Content AI to optimise the Product.
+  13 Reviews are enabled for this Product. Good Job!
+
+  14 Focus Keyword used at the beginning of SEO title.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Note to AI... only if the word "plant" is listed in the Material section then please add the answer to the following questions each question has several options bellow,dont change the name and never remove the _ so not "pot Size" but "pot_size"
+
+scientific_name =
+1.the plants scientific name
+-----------------------------------------	
+pot_size =
+1.small
+2.medium 
+3.large
+------------------------------------------ 	
+plant_size =
+1.small
+2.medium 
+3.large
+----------------------------------------	
+current_growing_medium =
+1.list the best growing medium(soil/substrate)
+-------------------------------------------	
+care_level =
+1.Low Maintenance
+2.Moderate Care
+3.High Attention
+-------------------------------------------	
+plant_use =
+1.Pots
+2.Balconies
+3.Patios
+4.Indoor
+5.General Garden
+6.Ponds
+7.Wetland/Marshy
+8.Edible
+9.Therapeutic
+10.Cut Flowers
+------------------------------------------------	
+speciality_collections =
+1.Rare Plant
+2.Easy Care
+3.Pet Friendly
+4.Air Purifying
+5.Fragrant
+6.Variegated Leaves
+7.Drought Tolerant
+8.Epiphytic
+--------------------------------------------------	
+growth_habits =	
+1.Tree
+2.Shrub
+3.Palm/Palm Like
+4.Vine/Climber
+5.Epiphyte
+6.Bulb
+7.Fern
+8.Grass/Grass Like
+9.Aquatic
+10.Herbaceous
+11.Succulent
+12.Ground Cover
+---------------------------------------------------
+origin =
+1.list origin of plant
+-------------------------------------------	
+plant_type =
+1.Annual
+2.Perennial
+3.Long-lived
+4.Deciduous/Evergreen
+---------------------------------------------	
+landscaping_uses =
+1.Indoor
+2.Pots
+3.Balconies
+4.Patios
+5.Indoor
+6.General Garden
+7.Ponds
+8.Wetland/Marshy
+9.Edible
+10.Therapeutic
+11.Cut Flowers
+---------------------------------------------------	
+environmental_preferences =
+1.Full Sun
+2.Full Shade
+3.Partial Shade
+4.Bright Indirect Light
+5.Moderate Light
+6.Low Light
+7.Clay Soil
+8.Sand Soil
+9.Loam Soil
+10.Clay/Sand/Loam Combination
+11.Wind Tolerant
+12.Prefers Sheltered Spot
+13.Well-Drained Soil
+14.Heavy Soil
+15.Good Air Movement/Circulation
+16.Lack of Air Movement/Circulation
+--------------------------------------------------------	
+cultivation_preferences =
+1.Regular Repotting
+2.Dislikes Root Disturbance
+3.Light Pruning Required
+4.Moderate Pruning Required
+5.Heavy Pruning Required
+6.Light Feeding Required
+7.Moderate Feeding Required
+8.Heavy Feeding Required
+9.Light Watering Required
+10.Moderate Watering Required
+11.Heavy Watering Required
+
+--------------------------------------------------------------------------------------------------------------
+
+
+NOTE TO AI: The following is an example of a well-written product listing that scores over 80% on SEO analysers like RankMath and similar tools, the main description should always be 200 words or more and the title should rather have the power word in the middle blending in with the title rather than in the begining of the title and also regarding the title, please use | instead of - to seperate, if I paste a good looking description of a products then just change it slightly and add more usefull info. please give me a Focus Keyword to add to rankmath and add the Focus Keyword must be the main word/words in the title.
+
+LONG DESCRIPTION:
+[200+ word rich description. Emphasise benefits, usage, ingredients, etc. Use ticks ✓ for features.]
+
+Use this as a structure template for all products, regardless of type (plants, electronics, homeware, etc).
+
+---
+product title = LECA® Lightweight Expanded Clay Aggregate - Round
+
+long description = 
+
+These ROUND LECA® aggregate balls are available in size options of 4 - 10mm, 10 - 20mm and 10 - 20mm. Bag size options are 10 Litres and 50 Litres.
+
+LECA® is a game-changer for planting and gardening.
+
+It enhances soil aeration, improves drainage, and retains moisture, preventing waterlogging and root rot. 
+
+Ideal for gardens, hydroponics, and potted plants, it supports robust root growth and healthier plants. LECA® is also reusable, eco-friendly, and provides a sustainable solution for plant care. Its lightweight and porous structure make it easy to handle and integrate into various gardening setups. Whether you're cultivating vibrant indoor greenery or maintaining lush outdoor landscapes, LECA® ensures optimal growing conditions and long-lasting results, helping your plants thrive effortlessly.
+
+Here's a guide on how to use it effectively:
+
+1. Drainage: Place a layer of LECA balls at the bottom of your pot to improve drainage and prevent waterlogging.  
+2. Hydroponics: Use LECA as a growing medium for hydroponic systems; it supports plants while retaining moisture.  
+3. Mixing: Combine LECA with soil to enhance aeration, creating an ideal environment for root development.  
+4. Propagation: Use it for propagating cuttings; the structure helps maintain moisture levels and supports healthy growth.  
+5. Decor: LECA adds a clean and modern look to pots and planters.
+
+Its lightweight, reusable nature and ability to retain water make it popular among eco-conscious gardeners.
+
+25-word summary = LECA® aggregate balls improve plant health by enhancing drainage, water retention, and aeration. Ideal for gardens, hydroponics, and potted plants.
+
+SEO Best Practices for Product Listings:
+
+    Product Title Optimization:
+
+        Keep the title between 50-70 characters for optimal search engine performance.
+
+        Include the primary product keyword (e.g., product name, size, material) near the beginning.
+
+        Use descriptive adjectives only if they add value (e.g., "UV-resistant," "weatherproof," "modern").
+
+        Avoid overusing generic terms that don’t add SEO value (e.g., "best," "cheap," etc.).
+
+        Ensure the title is clear and specific, focusing on the main product features.
+
+    Example Title:
+    “Anna 15cm Resin Planter – UV & Weather-Resistant Flower Pot for Indoors & Outdoors”
+
+    Meta Description Best Practices:
+
+        Keep the meta description between 140-160 characters.
+
+        Include important keywords that describe the product (e.g., material, size, features).
+
+        Focus on engagement: The description should clearly explain the product’s benefit and purpose in a concise, persuasive way.
+
+        Always ensure that the meta description is action-oriented or invites the customer to make a decision (e.g., “Shop Now,” “Order Today”).
+
+    Example Meta Description:
+    “Stylish 15cm resin planter—UV & weather-resistant for indoor & outdoor use. Lightweight, durable (0.8 kg). Elevate your décor today!”
+
+    SEO Tags:
+
+        Use 5-10 relevant keywords that describe the product, ensuring they cover common search terms and variations (e.g., “Resin Planter,” “Indoor Pot,” “Outdoor Flower Pot”).
+
+        Focus on both general and specific keywords to capture a wide range of search queries.
+
+        Avoid using overly broad or irrelevant tags (e.g., “cheap” or “best”).
+
+    Example Tags:
+    “Resin flower pot,” “15cm planter,” “UV-resistant planter,” “Indoor outdoor planter,” “Decorative resin planter.”
+
+    Long Description Guidelines:
+
+        The long description should focus on the benefits of the product, not just features.
+
+        Use bullet points for easy scanning and readability.
+
+        Include the main keyword in the first sentence or two to improve search visibility.
+
+        Highlight the product’s unique selling points (e.g., UV/weather resistance, lightweight, versatile design).
+
+        Use customer-centric language, focusing on the product’s utility and how it improves the customer’s life or space.
+
+        Always finish with a call to action (e.g., “Shop Now,” “Order Today”).
+
+    Example Long Description:
+    “The Anna 15cm Resin Planter combines style and durability, making it a perfect choice for homes, gardens, and offices. Crafted from high-quality resin, this 17 x 17 x 15.5 cm pot is lightweight yet sturdy, offering a modern aesthetic that complements any décor.”
+
+    Additional Tips:
+
+        Always aim for clarity and conciseness. Avoid fluff or redundant phrases.
+
+        Focus on search intent: Understand what users are searching for and tailor the content to meet their needs (e.g., "UV-resistant," "for indoors and outdoors").
+
+        When applicable, consider adding related product suggestions at the end of the long description (e.g., matching saucers, plant accessories).
