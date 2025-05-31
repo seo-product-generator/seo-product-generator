@@ -25,7 +25,9 @@ function App() {
 
   const generateSEO = async () => {
     setLoading(true);
+    setOutput("");
     try {
+      // ✅ Load memory.txt file from public folder
       const memoryResponse = await fetch("/memory.txt");
       const memory = await memoryResponse.text();
 
@@ -62,6 +64,11 @@ Generate the following:
         })
       });
 
+      if (!response.ok) {
+        const errorText = await response.text();
+        throw new Error(`API Error: ${response.status}\n${errorText}`);
+      }
+
       const data = await response.json();
 
       if (!data.choices || !data.choices.length) {
@@ -79,15 +86,15 @@ Generate the following:
 
       setOutput(seoOutput);
     } catch (error) {
-      setOutput("Something went wrong: " + error.message);
+      setOutput("❌ Something went wrong:\n\n" + error.message);
     } finally {
       setLoading(false);
     }
   };
 
   return (
-    <div style={{ maxWidth: "800px", margin: "0 auto", padding: "1rem" }}>
-      <h2>AI SEO Generator</h2>
+    <div style={{ maxWidth: "800px", margin: "0 auto", padding: "1rem", fontFamily: "sans-serif" }}>
+      <h2>🧠 AI SEO Generator</h2>
 
       <label>Product Name:</label>
       <input value={productName} onChange={e => setProductName(e.target.value)} style={{ width: "100%" }} />
@@ -110,12 +117,12 @@ Generate the following:
       <label>Extra Info:</label>
       <textarea value={extraInfo} onChange={e => setExtraInfo(e.target.value)} rows={4} style={{ width: "100%" }} />
 
-      <button onClick={generateSEO} disabled={loading} style={{ marginTop: "10px" }}>
+      <button onClick={generateSEO} disabled={loading} style={{ marginTop: "10px", padding: "10px", background: "#3b82f6", color: "white", border: "none", borderRadius: "5px" }}>
         {loading ? "Generating..." : "Generate SEO"}
       </button>
 
-      <h3>SEO Output:</h3>
-      <textarea value={output} readOnly rows={20} style={{ width: "100%" }} />
+      <h3 style={{ marginTop: "2rem" }}>SEO Output:</h3>
+      <textarea value={output} readOnly rows={20} style={{ width: "100%", whiteSpace: "pre-wrap" }} />
     </div>
   );
 }
