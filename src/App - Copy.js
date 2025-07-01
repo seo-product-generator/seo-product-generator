@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 const API_URL = "https://seo-ai-proxy.onrender.com/generate";
-const MODEL = "deepseek/deepseek-chat-v3-0324:free";
+const MODEL = "deepseek/deepseek-chat-v3-0324:free"; // Updated model
 
 function App() {
   const [productName, setProductName] = useState("");
@@ -16,17 +16,17 @@ function App() {
 
   const stripSection = (text, sectionTitle) => {
     const pattern = new RegExp(
-      `###\\s+\\*\\*?${sectionTitle.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\*?\\*?.*?(?=\\n###|$)`,
-      "gis"
+      `###\\s+\\*\\*?${sectionTitle.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\*?\\*?.*?(?=\\n###|$)`,
+      'gis'
     );
-    return text.replace(pattern, "");
+    return text.replace(pattern, '');
   };
 
   const generateSEO = async () => {
     setLoading(true);
     setOutput("");
-
     try {
+      // ✅ Load memory.txt file from public folder
       const memoryResponse = await fetch("/memory.txt");
       const memory = await memoryResponse.text();
 
@@ -52,15 +52,16 @@ Generate the following:
 - Optional: Long Description`;
 
       const response = await fetch(API_URL, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({
-          model: MODEL,
-          prompt: prompt
-        })
-      });
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json"
+  },
+  body: JSON.stringify({
+    model: MODEL,
+    prompt: prompt
+  })
+});
+
 
       if (!response.ok) {
         const errorText = await response.text();
@@ -78,7 +79,6 @@ Generate the following:
       if (memory.includes("**DO NOT INCLUDE LONG DESCRIPTION**")) {
         seoOutput = stripSection(seoOutput, "Long Description");
       }
-
       if (memory.includes("**DO NOT INCLUDE TAGS**")) {
         seoOutput = stripSection(seoOutput, "SEO Tags");
       }
@@ -93,57 +93,35 @@ Generate the following:
 
   return (
     <div style={{ maxWidth: "800px", margin: "0 auto", padding: "1rem", fontFamily: "sans-serif" }}>
-      <h2>🌿 AI SEO Generator</h2>
+      <h2>🧠 AI SEO Generator</h2>
 
       <label>Product Name:</label>
       <input value={productName} onChange={e => setProductName(e.target.value)} style={{ width: "100%" }} />
 
       <label>Weight (kg):</label>
-      <input value={weight} onChange={e => setWeight(e.target.value)} style={{ width: "100%" }} />
+      <input value={weight} onChange={e => setWeight(e.target.value)} />
 
       <label>Length (cm):</label>
-      <input value={length} onChange={e => setLength(e.target.value)} style={{ width: "100%" }} />
+      <input value={length} onChange={e => setLength(e.target.value)} />
 
       <label>Width (cm):</label>
-      <input value={width} onChange={e => setWidth(e.target.value)} style={{ width: "100%" }} />
+      <input value={width} onChange={e => setWidth(e.target.value)} />
 
       <label>Height (cm):</label>
-      <input value={height} onChange={e => setHeight(e.target.value)} style={{ width: "100%" }} />
+      <input value={height} onChange={e => setHeight(e.target.value)} />
 
       <label>Material:</label>
       <input value={material} onChange={e => setMaterial(e.target.value)} style={{ width: "100%" }} />
 
       <label>Extra Info:</label>
-      <textarea
-        value={extraInfo}
-        onChange={e => setExtraInfo(e.target.value)}
-        rows={5}
-        style={{ width: "100%" }}
-      />
+      <textarea value={extraInfo} onChange={e => setExtraInfo(e.target.value)} rows={4} style={{ width: "100%" }} />
 
-      <button
-        onClick={generateSEO}
-        disabled={loading}
-        style={{
-          marginTop: "10px",
-          padding: "10px 20px",
-          background: "#3b82f6",
-          color: "white",
-          border: "none",
-          borderRadius: "5px",
-          cursor: loading ? "wait" : "pointer"
-        }}
-      >
+      <button onClick={generateSEO} disabled={loading} style={{ marginTop: "10px", padding: "10px", background: "#3b82f6", color: "white", border: "none", borderRadius: "5px" }}>
         {loading ? "Generating..." : "Generate SEO"}
       </button>
 
       <h3 style={{ marginTop: "2rem" }}>SEO Output:</h3>
-      <textarea
-        value={output}
-        readOnly
-        rows={20}
-        style={{ width: "100%", whiteSpace: "pre-wrap", fontFamily: "monospace" }}
-      />
+      <textarea value={output} readOnly rows={20} style={{ width: "100%", whiteSpace: "pre-wrap" }} />
     </div>
   );
 }
