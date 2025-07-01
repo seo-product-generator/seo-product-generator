@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const API_URL = "http://localhost:5000/generate"; // ✅ Use your proxy route
+const API_URL = "https://seo-ai-proxy.onrender.com/generate"; // ✅ Use your proxy route
 const MODEL = "deepseek/deepseek-chat-v3-0324:free";
 
 function App() {
