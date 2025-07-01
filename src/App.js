@@ -32,30 +32,44 @@ function App() {
 
       const dimensions = `Weight: ${weight} kg, Length: ${length} cm, Width: ${width} cm, Height: ${height} cm`;
 
-      const prompt = `You are an SEO expert optimising eCommerce product listings using RankMath best practices.
+      const prompt = [
+  "You are an SEO expert optimising eCommerce product listings using RankMath best practices.",
+  "",
+  "You MUST strictly follow all formatting and instructions from the MEMORY section below. Instructions in double asterisks (like **THIS**) are non-negotiable rules. Do not skip, ignore, or reinterpret them.",
+  "",
+  "MEMORY (RULES):",
+  memory,
+  "",
+  "PRODUCT DATA:",
+  `Name: ${productName}`,
+  `Weight & Dimensions: ${dimensions}`,
+  `Material: ${material}`,
+  `Extra Info: ${extraInfo}`,
+  "",
+  "Generate the following sections with markdown bold headings (**like this**):",
+  "",
+  "### SEO-Optimised Product Title",
+  "### Meta Description",
+  "### SEO Tags",
+  "### Long Description (200+ Words)",
+  "### Variations",
+  "",
+  "If material is 'plant', include the plant meta fields at the end in this format:",
+  "plants_scientific_name = ...",
+  "plants_pot_size = ...",
+  "plants_plant_size = ...",
+  "plants_care_level = ...",
+  "plants_current_growing_medium = ...",
+  "plants_plant_use = ...",
+  "plants_speciality_collections = ...",
+  "plants_growth_habits = ...",
+  "plants_origin = ...",
+  "plants_plant_type = ...",
+  "plants_landscaping_uses = ...",
+  "plants_environmental_preferences = ...",
+  "plants_cultivation_preferences = ..."
+].join("\n");
 
-You MUST strictly follow all formatting and instructions from the MEMORY section below. Instructions in double asterisks (like **THIS**) are non-negotiable rules. Do not skip, ignore, or reinterpret them.
-
-MEMORY (RULES):
-${memory}
-
-PRODUCT DATA:
-Name: ${productName}
-Weight & Dimensions: ${dimensions}
-Material: ${material}
-Extra Info: ${extraInfo}
-
-Generate the following sections with markdown bold headings (**like this**):
-
-### SEO-Optimised Product Title  
-### Meta Description  
-### SEO Tags  
-### Long Description (200+ Words)  
-### Variations
-
-If material is 'plant', include the plant meta fields at the end in this format:
-meta:plants_scientific_name = Alocasia amazonica
-meta:plants_pot_size = small
 
       const response = await fetch(API_URL, {
         method: "POST",
