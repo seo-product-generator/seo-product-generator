@@ -5,8 +5,7 @@ C:\Users\Mike\Music\SEO Product Generator\seo-generator\src\App.js
 
 import React, { useState } from "react";
 
-const API_KEY = "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";
-const API_URL = "https://openrouter.ai/api/v1/chat/completions";
+const API_URL = "https://seo-ai-proxy.onrender.com/generate"; // ✅ Use your proxy route
 const MODEL = "deepseek/deepseek-chat-v3-0324:free";
 
 function App() {
@@ -58,16 +57,16 @@ Generate the following:
 - Optional: Long Description`;
 
       const response = await fetch(API_URL, {
-        method: "POST",
-        headers: {
-          "Authorization": `Bearer ${API_KEY}`,
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({
-          model: MODEL,
-          messages: [{ role: "user", content: prompt }]
-        })
-      });
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json"
+  },
+  body: JSON.stringify({
+    model: MODEL,
+    prompt: prompt
+  })
+});
+
 
       if (!response.ok) {
         const errorText = await response.text();

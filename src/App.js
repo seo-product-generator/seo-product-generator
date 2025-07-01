@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
-const API_URL = "https://seo-ai-proxy.onrender.com/generate"; // ✅ Use your proxy route
-const MODEL = "deepseek/deepseek-chat-v3-0324:free";
+const API_URL = "https://seo-ai-proxy.onrender.com/generate";
+const MODEL = "deepseek/deepseek-chat-v3-0324:free"; // Updated model
 
 function App() {
   const [productName, setProductName] = useState("");
