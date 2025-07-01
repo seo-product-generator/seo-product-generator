@@ -45,11 +45,17 @@ Weight & Dimensions: ${dimensions}
 Material: ${material}
 Extra Info: ${extraInfo}
 
-Generate the following:
-- SEO-optimised Product Title
-- Meta Description (~160 characters)
-- 5-10 high-quality SEO tags seperated like this "1, 2, 3, 4, 5 and not listed under each other"
-- Long Description of 200 words`;
+Generate the following sections with markdown bold headings (**like this**):
+
+### SEO-Optimised Product Title  
+### Meta Description  
+### SEO Tags  
+### Long Description (200+ Words)  
+### Variations
+
+If material is 'plant', include the plant meta fields at the end in this format:
+meta:plants_scientific_name = Alocasia amazonica
+meta:plants_pot_size = small
 
       const response = await fetch(API_URL, {
         method: "POST",
