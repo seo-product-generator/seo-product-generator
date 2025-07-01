@@ -48,8 +48,8 @@ Extra Info: ${extraInfo}
 Generate the following:
 - SEO-optimised Product Title
 - Meta Description (~160 characters)
-- 5-10 high-quality SEO tags
-- Optional: Long Description`;
+- 5-10 high-quality SEO tags seperated like this "1, 2, 3, 4, 5 and not listed under each other"
+- Long Description of 200 words`;
 
       const response = await fetch(API_URL, {
         method: "POST",
