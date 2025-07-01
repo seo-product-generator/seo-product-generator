@@ -427,30 +427,30 @@ Fun"
 
   14 Focus Keyword used at the beginning of SEO title.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Note to AI... only if the word "plant" is listed in the Material section then please add the answer to the following questions each question has several options bellow,dont change the name and never remove the _ so not "pot Size" but "pot_size"
+Note to AI... only if the word "plant" is listed in the Material section then please add the answer to the following questions each question has several options bellow,dont change the name and never remove the _ so not "plants_pot Size" but "plants_pot_size"
 
-scientific_name =
+plants_scientific_name =
 1.the plants scientific name
 -----------------------------------------	
-pot_size =
+plants_pot_size =
 1.small
 2.medium 
 3.large
 ------------------------------------------ 	
-plant_size =
+plants_plant_size =
 1.small
 2.medium 
 3.large
 ----------------------------------------	
-current_growing_medium =
+plants_current_growing_medium =
 1.list the best growing medium(soil/substrate)
 -------------------------------------------	
-care_level =
+plants_care_level =
 1.Low Maintenance
 2.Moderate Care
 3.High Attention
 -------------------------------------------	
-plant_use =
+plants_plant_use =
 1.Pots
 2.Balconies
 3.Patios
@@ -462,7 +462,7 @@ plant_use =
 9.Therapeutic
 10.Cut Flowers
 ------------------------------------------------	
-speciality_collections =
+plants_speciality_collections =
 1.Rare Plant
 2.Easy Care
 3.Pet Friendly
@@ -472,7 +472,7 @@ speciality_collections =
 7.Drought Tolerant
 8.Epiphytic
 --------------------------------------------------	
-growth_habits =	
+plants_growth_habits =	
 1.Tree
 2.Shrub
 3.Palm/Palm Like
@@ -486,16 +486,16 @@ growth_habits =
 11.Succulent
 12.Ground Cover
 ---------------------------------------------------
-origin =
+plants_origin =
 1.list origin of plant
 -------------------------------------------	
-plant_type =
+plants_plant_type =
 1.Annual
 2.Perennial
 3.Long-lived
 4.Deciduous/Evergreen
 ---------------------------------------------	
-landscaping_uses =
+plants_landscaping_uses =
 1.Indoor
 2.Pots
 3.Balconies
@@ -508,7 +508,7 @@ landscaping_uses =
 10.Therapeutic
 11.Cut Flowers
 ---------------------------------------------------	
-environmental_preferences =
+plants_environmental_preferences =
 1.Full Sun
 2.Full Shade
 3.Partial Shade
@@ -526,7 +526,7 @@ environmental_preferences =
 15.Good Air Movement/Circulation
 16.Lack of Air Movement/Circulation
 --------------------------------------------------------	
-cultivation_preferences =
+plants_cultivation_preferences =
 1.Regular Repotting
 2.Dislikes Root Disturbance
 3.Light Pruning Required
@@ -639,3 +639,7 @@ SEO Best Practices for Product Listings:
         Focus on search intent: Understand what users are searching for and tailor the content to meet their needs (e.g., "UV-resistant," "for indoors and outdoors").
 
         When applicable, consider adding related product suggestions at the end of the long description (e.g., matching saucers, plant accessories).
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Note to AI:
+please make an educated guess for product weights if weight is not added by the user for all types of products.
