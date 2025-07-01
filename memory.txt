@@ -1,7 +1,7 @@
 MEMORY.txt
 
-Note to AI:
-Use British English spelling in all responses.
+**Note to AI:**
+**Use British English spelling in all responses.
 Examples:
 - "colour" not "color"
 - "favour" not "favor"
@@ -9,26 +9,26 @@ Examples:
 - "theatre" not "theater"
 - Always make output easily readable and ready to paste without extra formatting.
 - NEVER use asterisks (*) to style or highlight text. Avoid **bold** formatting entirely.
-- NEVER use hashtags (#) to create headings or styled sections.
+- NEVER use hashtags (#) to create headings or styled sections.**
 
 **DO NOT INCLUDE TAGS**
 **DO NOT INCLUDE LONG DESCRIPTION**
 
 Consider using at least 200 words for product listings.
 
-In long descriptions, you may use tick (✓) icons for listing product features clearly and attractively when needed, like this:
+**In long descriptions, you may use tick (✓) icons for listing product features clearly and attractively when needed, like this:
 ✓ Lightweight design  
 ✓ Durable material  
-✓ Weather-resistant
+✓ Weather-resistant**
 
-please remember to not us ** in descriptions or # to highlight words and the output must be easily readable and ready to paste
+**please remember to not us ** in descriptions or # to highlight words and the output must be easily readable and ready to paste**
 
-For the tag section:
+**For the tag section:
 ⚠️ Do NOT list tags as numbers or bullet points.
 ✅ Output them as a comma-separated list like this:
-resin planter, small flower pot, UV-resistant, indoor plant pot, outdoor planter
+resin planter, small flower pot, UV-resistant, indoor plant pot, outdoor planter**
 
-note to AI..... here is a checklist and dont forget to add the power word to the title
+**note to AI..... here is a checklist and dont forget to add the power word to the title**
 
 There are many ways of categorizing power words, but from our perspective, there are three types of power words.
 
@@ -427,7 +427,7 @@ Fun"
 
   14 Focus Keyword used at the beginning of SEO title.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Note to AI... only if the word "plant" is listed in the Material section then please add the answer to the following questions each question has several options bellow,dont change the name and never remove the _ so not "plants_pot Size" but "plants_pot_size"
+**Note to AI... only if the word "plant" is listed in the Material section then please add the answer to the following questions each question has several options bellow,dont change the name and never remove the _ so not "plants_pot Size" but "plants_pot_size"
 
 plants_scientific_name =
 1.the plants scientific name
@@ -539,10 +539,10 @@ plants_cultivation_preferences =
 10.Moderate Watering Required
 11.Heavy Watering Required
 
---------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------**
 
 
-NOTE TO AI: The following is an example of a well-written product listing that scores over 80% on SEO analysers like RankMath and similar tools, the main description should always be 200 words or more and the title should rather have the power word in the middle blending in with the title rather than in the begining of the title and also regarding the title, please use | instead of - to seperate, if I paste a good looking description of a products then just change it slightly and add more usefull info. please give me a Focus Keyword to add to rankmath and add the Focus Keyword must be the main word/words in the title.
+NOTE TO AI: The following is an example of a well-written product listing that scores over 80% on SEO analysers like RankMath and similar tools, the main description should always be 200 words or more and the title should rather have the power word in the middle blending in with the title rather than in the begining of the title and also regarding the title, please use - instead of | to seperate, if I paste a good looking description of a products then just change it slightly and add more usefull info. please give me a Focus Keyword to add to rankmath and add the Focus Keyword must be the main word/words in the title.
 
 LONG DESCRIPTION:
 [200+ word rich description. Emphasise benefits, usage, ingredients, etc. Use ticks ✓ for features.]
@@ -641,5 +641,5 @@ SEO Best Practices for Product Listings:
         When applicable, consider adding related product suggestions at the end of the long description (e.g., matching saucers, plant accessories).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Note to AI:
-please make an educated guess for product weights if weight is not added by the user for all types of products.
+**Note to AI:
+please make an educated guess for product weights if weight is not added by the user for all types of products.**
